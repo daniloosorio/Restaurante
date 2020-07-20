@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hacienda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Manila">Hacienda-Manila\nDireccion:Cl.12#43d11\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Central">Hacienda–La Central\nDireccion:Cl.49#21–38\nlocal 301\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Junin">Hacienda–Junin\nDireccion:Cr.49 junnin\n#52–98\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Moda">Hacienda–De Moda\nDireccion:Cl.16#55–129\nlocal 218 Centro\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Rio">Hacienda–Ciudad del Rio\nDireccion:Cr.48#20–34\nLocal 102\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Strada">Hacienda-La Strada\nDireccion:Cr.43A#1 sur 150\nLocal 225\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Urbana">Hacienda-Urbana\nDireccion:Cl.12#43 d144 #43d-a\nMedellin,Antioquia\nTel:(4)4489030</string>
+    <string name="Origen">Hacienda–Origen junnin\nAv Ayacucho #48–2 a 48–44,\nMedellin,Antioquia\nTel:(4)4489030</string>
+
+</resources>
